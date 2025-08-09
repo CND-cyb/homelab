@@ -35,6 +35,20 @@ The goal is to create a complete environment to:
 
 ---
 
+## 📸 Screenshots
+
+### Proxmox Dashboard
+![Proxmox Dashboard](<img width="1687" height="1062" alt="Sans titre" src="https://github.com/user-attachments/assets/32261b44-6a6b-4196-acb2-1c942e39ccd5" />
+)
+
+### TrueNAS Storage View
+![TrueNAS Storage](images/truenas_storage.png)
+
+### Pi-hole Query Log
+![Pi-hole Queries](images/pihole_queries.png)
+
+---
+
 ## 📌 Resources & References
 - [Proxmox Documentation](https://pve.proxmox.com/wiki/Main_Page)
 - [TrueNAS Docs](https://www.truenas.com/docs/)
