@@ -38,8 +38,7 @@ The goal is to create a complete environment to:
 ## 📸 Screenshots
 
 ### Proxmox Dashboard
-![Proxmox Dashboard](<img width="1687" height="1062" alt="Sans titre" src="https://github.com/user-attachments/assets/32261b44-6a6b-4196-acb2-1c942e39ccd5" />
-)
+![Proxmox Dashboard](https://github.com/user-attachments/assets/32261b44-6a6b-4196-acb2-1c942e39ccd5)
 
 ### TrueNAS Storage View
 ![TrueNAS Storage](images/truenas_storage.png)
