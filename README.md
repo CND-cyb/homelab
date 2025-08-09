@@ -49,6 +49,15 @@ The goal is to create a complete environment to:
 
 ---
 
+## 🛡️ Pi-hole Blocklists
+
+Here are the blocklists currently configured on my Pi-hole for enhanced ad and tracker blocking:
+
+- [StevenBlack’s Unified Hosts](https://github.com/StevenBlack/hosts)
+- [Mullvad Blocklists](https://github.com/mullvad/dns-blocklists?tab=readme-ov-file#lists)
+
+---
+
 ## 📌 Resources & References
 - [Proxmox Documentation](https://pve.proxmox.com/wiki/Main_Page)
 - [TrueNAS Docs](https://www.truenas.com/docs/)
