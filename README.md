@@ -24,7 +24,7 @@ The goal is to create a complete environment to:
     [ISP Router / Modem]
 ├── Various test VMs (services & servers)
 └── Vulnerable machines for pentesting
-
+```
 ---
 
 ## 🛠️ Current Components
@@ -32,7 +32,7 @@ The goal is to create a complete environment to:
 - **TrueNAS** – centralized NAS storage
 - **Pi-hole** – network-wide DNS filtering
 - **Test VMs** – temporary machines for experimentation
-```
+
 ---
 
 ## 📸 Screenshots
