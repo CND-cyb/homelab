@@ -51,6 +51,9 @@ The goal is to create a complete environment to:
 ### Pi-hole Query Log
 ![Pi-hole Querie](https://github.com/user-attachments/assets/5e5b45c4-ca90-471e-8661-a3f176094411)
 
+### Tailscale Dashboard
+![Tailscale Dashboard](https://github.com/user-attachments/assets/53bbd998-3e02-40b2-9078-6cbe6c570b04)
+
 ---
 
 ## 🛡️ Pi-hole Blocklists
