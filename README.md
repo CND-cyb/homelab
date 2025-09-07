@@ -3,7 +3,7 @@
 ## 📌 Overview
 This repository documents my **cybersecurity-focused homelab** built on a **mini-PC** running **Proxmox**.  
 The goal is to create a complete environment to:
-- Host useful services (NAS, DNS filtering, firewall, etc...)
+- Host useful services (NAS, DNS filtering, cloud storage, firewall, etc...)
 - Experiment with tools and network configurations
 - Build a lab for security testing and attack analysis
 - Practice on vulnerable machines
@@ -17,8 +17,9 @@ The goal is to create a complete environment to:
 ▼
 [Mini-PC running Proxmox]
 ├── VM: TrueNAS (Network-attached storage)
+├── VM: pfSense (Firewall & routing)
 ├── LXC: Pi-hole (DNS filtering & ad blocking)
-├── Future VM: pfSense (Firewall & routing)
+├── VM: Nextcloud (Personal cloud for files & course material)
     │
     ▼
     [ISP Router / Modem]
@@ -31,6 +32,7 @@ The goal is to create a complete environment to:
 - **Proxmox VE** – main hypervisor
 - **TrueNAS** – centralized NAS storage
 - **Pi-hole** – network-wide DNS filtering
+- **Nextcloud** – personal cloud storage for courses and files
 - **Test VMs** – temporary machines for experimentation
 
 ---
@@ -72,7 +74,8 @@ Here are the blocklists currently configured on my Pi-hole for enhanced ad and t
 | Proxmox          | ✅ Installed |
 | TrueNAS          | ✅ Installed |
 | Pi-hole          | ✅ Installed |
-| pfSense          | ⏳ Planned |
+| Nextcloud        | ✅ Installed |
+| pfSense          | ✅ Installed |
 | Vulnerable VMs   | ⏳ Planned |
 | Snort            | ⏳ Planned |
 
