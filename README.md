@@ -7,6 +7,7 @@ The goal is to create a complete environment to:
 - Experiment with tools and network configurations
 - Build a lab for security testing and attack analysis
 - Practice on vulnerable machines
+- **Access the entire lab securely from anywhere via Tailscale VPN**
 
 ---
 
@@ -34,6 +35,7 @@ The goal is to create a complete environment to:
 - **Pi-hole** – network-wide DNS filtering
 - **Nextcloud** – personal cloud storage for courses and files
 - **Test VMs** – temporary machines for experimentation
+- **Tailscale** – VPN connectivity to access all services securely from anywhere
 
 ---
 
@@ -76,10 +78,8 @@ Here are the blocklists currently configured on my Pi-hole for enhanced ad and t
 | Pi-hole          | ✅ Installed |
 | Nextcloud        | ✅ Installed |
 | pfSense          | ✅ Installed |
+| Tailscale VPN    | ✅ Installed & configured |
 | Vulnerable VMs   | ⏳ Planned |
 | Snort            | ⏳ Planned |
 
 ---
-
-## 🔐 Security Notice
-> ⚠️ Vulnerable environments are **isolated from the main network** and must never be directly exposed to the Internet.
